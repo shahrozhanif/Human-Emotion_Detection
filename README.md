@@ -44,3 +44,8 @@ Max pooling layers
 Batch normalization
 Fully connected (Dense) layers
 Softmax output layer
+
+## Results
+Training Set Accuracy: 98.6 %
+Validation Set Accuracy: 84.7 %
+Test Set Accuracy: 82.7% 
