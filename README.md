@@ -28,7 +28,7 @@ Testing/Validation set
 
 Each image belongs to one of the emotion classes.
 
-⚙️ Installation & Setup
+## Installation & Setup
 Download your kaggle.json API key
 Place it in your working directory or set environment variables:
 export KAGGLE_USERNAME=your_username
