@@ -7,7 +7,9 @@ Happy
 Sad
 
 The project includes:
+
 A baseline CNN model for emotion classification
+
 Data preprocessing and augmentation pipeline
 
 ## Project Structure
