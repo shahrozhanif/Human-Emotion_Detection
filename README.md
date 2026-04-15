@@ -9,13 +9,11 @@ Sad
 The project includes:
 A baseline CNN model for emotion classification
 Data preprocessing and augmentation pipeline
-Hyperparameter tuning using Bayesian Optimization
 
 ## Project Structure
 Human Emotions Detection/
 │
 ├── Human Emotions Detection Using CNN.ipynb
-├── Hyperparameter Tuning Using Bayesian Optimization.ipynb
 
 ## Dataset
 
